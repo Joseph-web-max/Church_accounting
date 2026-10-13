@@ -1,0 +1,25 @@
+
+{
+  "id": "/Church_accounting/",
+  "name": "Church Accounting System",
+  "short_name": "Church Accounts",
+  "description": "Church accounting and financial records",
+  "start_url": "/Church_accounting/",
+  "scope": "/Church_accounting/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#163b65",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
